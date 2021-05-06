@@ -1,4 +1,3 @@
 # Introduction
-Hello I am Erik and I am a Financial Math MSc from Florida state University. During my time studies I, and some professional activities I coded a lot of cool things and
-I will be using this place to showcase some of them.
 
+I code a lot of cool things (in my opinion) and some of them I upload here. If they are useful to you, or if you have some quentions about them, please send me an e-mail.
